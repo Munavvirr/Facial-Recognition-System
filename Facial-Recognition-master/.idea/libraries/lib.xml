@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/javacv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/KControls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/opencv-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/javacpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/javacv-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/openblas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/mysql-connector-java-5.1.47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/opencv-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/opencv-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/opencv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/prettytime-4.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

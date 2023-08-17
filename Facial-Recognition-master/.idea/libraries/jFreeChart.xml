@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jFreeChart">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/jfreesvg-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/orsoncharts-1.4-eval-nofx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/orsonpdf-1.6-eval.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/swtgraphics2d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Facial-Recognition/lib/jFreeChart/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
